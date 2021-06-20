@@ -1,7 +1,10 @@
 #include <iostream>
 #include <string>
-//#include <vector>
+#include <vector>
 
+namespace{
+    const int hoge = 0;
+}
 //namespace Config {
 //	const int x = 8 + 1;
 //	const int y = 5;
