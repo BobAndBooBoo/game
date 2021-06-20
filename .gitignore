@@ -3,3 +3,9 @@
 ################################################################################
 
 /nimotsukun/.vs/nimotsukun/v16/Browse.VC.opendb
+.vs/
+.vscode/
+Debug/
+x64/
+nimotsukun/Debug/
+nimotsukun/x64/
