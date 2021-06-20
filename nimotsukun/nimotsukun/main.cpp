@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <vector>
 
 //namespace Config {
 //	const int x = 8 + 1;
